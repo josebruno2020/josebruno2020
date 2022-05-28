@@ -1,7 +1,7 @@
 ### Hi there, I'm JB, a tech lover 👋
 
 
-- 🔭 I’m currently working with php and javascript languages.
+- 🔭 I’m currently working with php and typescript languages.
 
 <div align="center">
   <a href="https://github.com/josebruno2020">
