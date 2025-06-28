@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 29 mins  ██████████████▒░░░░░░░░░░   57.04 %
-JavaScript   2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Other        1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Docker       1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Makefile     53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+TypeScript   17 hrs 37 mins  ██████████████▓░░░░░░░░░░   58.79 %
+JavaScript   2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Other        2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Go           2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Docker       1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
